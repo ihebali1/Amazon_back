@@ -1,0 +1,5 @@
+export enum ProductTypeEnum {
+  SIMPLE_LISTING = 'SIMPLE_LISTING',
+  PARENT_LISTING = 'PARENT_LISTING',
+  VARIATION = 'VARIATION',
+}

@@ -1,0 +1,4 @@
+export enum PromotionsTypeEnum {
+  POURCENTAGE = 'POURCENTAGE',
+  BUYONEANDGETONE = 'BUYONEANDGETONE',
+}

@@ -1,0 +1,4 @@
+export enum AttributeTypeEnum {
+  SINGLE_CHOICE = 'SINGLE_CHOICE',
+  MULTIPLE_CHOICES = 'MULTIPLE_CHOICES',
+}

@@ -1,0 +1,4 @@
+export enum GainEnum {
+  TRANSACTION = 'TRANSACTION',
+  SUBSCRIPTION = 'SUBSCRIPTION',
+}

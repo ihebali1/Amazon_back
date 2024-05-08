@@ -1,0 +1,6 @@
+export enum VendorStateEnum {
+  UNVERIFIED = 'UNVERIFIED',
+  VERIFIED = 'VERIFIED',
+  SUSPENDED = 'SUSPENDED',
+  DISABLED = 'DISABLED',
+}

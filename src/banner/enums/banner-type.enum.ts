@@ -1,0 +1,6 @@
+export enum BannerTypeEnum {
+    HOME_HEADER = 'HOME_HEADER',
+    DEPARTMENT_CARD = 'DEPARTMENT_CARD',
+    DEPARTMENT_HEADER = 'DEPARTMENT_HEADER',
+}
+  
